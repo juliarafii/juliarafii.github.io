@@ -3,35 +3,36 @@ h1 {
   font-size: 3em;
   margin: auto;
 }
-
 h2 {
   color: rgb(148,184,227);
 }
-
 h3 {
   font-size:1.17em;
 }
-
-i {
+h4 {
+    margin: 0em;
+}
+p {
+    margin:0em;
+}
+li {
+    margin-bottom: 1em;
+}
+.description {
   font-style: italic;
 }
-
-.highlight {
-  background-color: rgb(255,251,196);
+.price {
+  font-family: sans-serif;
 }
-
 .appetizers {
   color: rgb(173,219,103);
 }
-
 .salads {
   color: rgb(255,228,120);
 }
-
 .entrees {
   color:rgb(255,150,161);
 }
-
 .dessert {
   color:rgb(255,214,179);
 }
