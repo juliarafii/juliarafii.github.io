@@ -12,11 +12,11 @@ h3 {
 }
 
 .price {
-  weight:bold;
+  font-style:bold;
 }
 
 .appetizers {
-  color: rgb(67,125,42);
+  color: rgb(173,219,103);
 }
 
 .salads {
