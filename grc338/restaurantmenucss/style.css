@@ -11,14 +11,10 @@ h3 {
   color: rgb(255,212,220);
 }
 
-h4 {
-  color: rgb(156,159,255);
-}
-
-.description {
+.appetizers {
   color: rgb(255,150,171);
 }
 
-.price {
+.salads {
   color: rgb(255,122,140);
 }
