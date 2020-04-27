@@ -12,9 +12,17 @@ h3 {
 }
 
 .appetizers {
-  color: rgb(255,150,171);
+  color: rgb(255,87,109);
 }
 
 .salads {
-  color: rgb(255,122,140);
+  color: rgb(255,117,140);
+}
+
+.entrees {
+  color:rgb(255,150,161);
+}
+
+.dessert {
+  color:rgb(255,181,191);
 }
