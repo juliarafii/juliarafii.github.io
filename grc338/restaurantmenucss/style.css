@@ -11,12 +11,16 @@ h3 {
   font-size:1.17em;
 }
 
+.price {
+  weight:bold;
+}
+
 .appetizers {
-  color: rgb(255,87,109);
+  color: rgb(224,255,189);
 }
 
 .salads {
-  color: rgb(255,117,140);
+  color: rgb(255,228,120);
 }
 
 .entrees {
@@ -24,5 +28,5 @@ h3 {
 }
 
 .dessert {
-  color:rgb(255,181,191);
+  color:rgb(255,214,179);
 }
