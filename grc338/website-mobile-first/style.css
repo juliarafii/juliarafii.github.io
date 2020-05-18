@@ -1,0 +1,51 @@
+/*CSS document*/
+body {
+    background: #fafafa;
+}
+img {
+    width:100%;
+}
+h1 {
+    width:20em;
+    font-size:1em;
+}
+h2, h3 {
+    font-family: mrs-eaves-xl-serif, serif;
+    font-weight: 700;
+    font-style: normal;
+}
+h4 {
+    font-family: halyard-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p {   
+    font-family: halyard-display, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+ul, li {
+    margin-bottom: 1em; 
+}
+li {
+    color: #111111;
+}
+nav {
+    float:right;
+}
+nav ul {
+    padding:0;
+}
+nav ul li {
+    list-style:none;
+    display:inline;
+    margin-right:2em;
+    font-family:halyard-display, sans-serif;
+    text-transform:uppercase;
+    font-weight:200;
+    letter-spacing:0.1em;
+}
+nav ul li a {
+    text-decoration:none;
+    color:#111111;
+}
